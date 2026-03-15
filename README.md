@@ -90,10 +90,10 @@ I have developed a **live client Android application from scratch independently*
 
 ---
 
-### 🏃 HealthX – Android Health & Fitness App
-**Tech:** Kotlin, Firebase, Health Connect API, React (Web component)
+### 🏃 HealthX – AI Health & Fitness App
+**Tech:** Kotlin, Firebase, Health Connect API, React (Web component), AI
 
-- Implemented step tracking, calorie tracking, and daily health insights
+- **AI-Powered:** Implemented intelligent step tracking, calorie tracking, and daily health insights
 - Integrated Health Connect API for health data access
 - Clean UI following Material Design and an associated web admin panel.
 
