@@ -126,7 +126,7 @@ I have developed a **live client Android application from scratch independently*
 
 ## 📜 Certification
 
-- Internship Certificate
+- Internship Certificate – Sumago Infotech Pvt. Ltd.
 
 ---
 
