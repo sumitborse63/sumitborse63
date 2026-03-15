@@ -5,14 +5,14 @@
 
 I am an ambitious Software Developer with hands-on experience in building **production-level mobile and web applications**.  
 Currently pursuing **B.Tech in Information Technology**, with a completed **Diploma in Computer Technology**.  
-I have developed a **live client Android application from scratch independently** during my internship at **Sumago Infotech Pvt. Ltd.**
+I have developed a **live client Android application from scratch independently**, managing the entire product lifecycle from ideation to deployment.
 
 ---
 
 ## 🧑💻 About Me
 
 - 📱 Full-Stack Mobile & Web Developer specializing in **Kotlin, React, and Next.js**
-- 🏢 Former Android Developer Intern at **Sumago Infotech Pvt. Ltd.**
+- 🏢 Former **Android Developer Intern**, with hands-on experience building production-ready mobile apps
 - 🔥 Built a **live client Android app (Mydirishti)** from scratch as a **sole developer**
 - 🌱 Currently learning advanced Android architecture, 3D Web Experiences (Three.js), and Performance Optimization
 - 💡 Passionate about building scalable, fast, and user-centric seamless applications
@@ -126,7 +126,7 @@ I have developed a **live client Android application from scratch independently*
 
 ## 📜 Certification
 
-- Internship Certificate – **Sumago Infotech Pvt. Ltd.**
+- **Professional Android Development Internship Certificate**
 
 ---
 
