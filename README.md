@@ -43,8 +43,7 @@ I have developed a **live client Android application from scratch independently*
 
 ### 🧰 Tools & Architecture
 - Git & GitHub  
-- MVVM, Clean Architecture, Hilt (Dependency Injection)  
-- Vercel Deployment  
+- MVVM, Clean Architecture, Hilt (Dependency Injection)   
 - Debugging & Performance Optimization  
 
 ---
