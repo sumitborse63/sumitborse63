@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "137253994968",
+    "project_id": "messmate-app-2026",
+    "storage_bucket": "messmate-app-2026.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137253994968:android:c6a9d7b160a2e70f8eb2ad",
+        "android_client_info": {
+          "package_name": "com.sktech.messmate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137253994968-1o8ja8pm19lkif9t1su7abraig1aq602.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sktech.messmate",
+            "certificate_hash": "6a5196ef1b7169f9c7c38de1085a5934ade09c01"
+          }
+        },
+        {
+          "client_id": "137253994968-opjad0da3ino7d7t83e4e001cemhi76i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAI0OACRSTy0JK_EbCqmexI_3kvxljhkzQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "137253994968-opjad0da3ino7d7t83e4e001cemhi76i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
